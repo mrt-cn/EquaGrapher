@@ -21,22 +21,19 @@
    ```
    pip install -r requirements.txt
    ```
-3.Install PyQt5, as this is a PyQt5-based project:
+3. Install PyQt5, as this is a PyQt5-based project:
 
     ```
     pip install PyQt5
     ```
 
 ## How to Run: 
-1.Clone this repository:
+1. Clone this repository:
     ``` git clone https://github.com/username/EquaGrapher.git ```
 2. Navigate to the project directory:
-    ```cd EquaGrapher
-    ```
-3.Run the application:
-    ```
-    python main.py
-    ```
+    ```cd EquaGrapher```
+3. Run the application:
+    ```python main.py```
 ## Usage
 
 - Graph Functions: Enter the coefficients for up to 4 polynomial functions (1st, 2nd, or 3rd-degree) in the respective input fields.
