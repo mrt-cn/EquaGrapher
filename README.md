@@ -47,5 +47,9 @@
 - Matplotlib
 - NumPy
 
+  ## 📜 Lisans  
+This project is licensed with [Apache License 2.0](LICENSE)
+
+
 ## Contributing:
 Feel free to contribute by forking the project, making improvements, and submitting a pull request. Any help to improve functionality, optimize performance, or expand features is welcome!
